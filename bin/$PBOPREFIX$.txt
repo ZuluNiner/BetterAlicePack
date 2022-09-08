@@ -1,0 +1,5 @@
+//<'betterAlicePack.pbo' properties via Mikero's dos tools, dll version 8.35>
+product=dayz ugc;
+prefix=betterAlicePack;
+//PboType=Arma Addon;
+//</properties>
