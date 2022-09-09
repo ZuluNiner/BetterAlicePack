@@ -59,38 +59,38 @@ class CfgVehicles
 	};
 	class TelescopicBaton: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class BrassKnuckles_ColorBase: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class PipeWrench: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class BarbedBaseballBat: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class NailedBaseballBat: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class BaseballBat: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class HockeyStick: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class NewHockeyStick: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 	class PoliceBaton: Inventory_Base
 	{
-		inventorySlot[] = {"shoulder2"};
+		inventorySlot[] += {"shoulder2"};
 	};
 };
